@@ -1,0 +1,7 @@
+#BlueJ class context
+#Fri Sep 18 20:10:28 CST 2026
+comment0.target=Reptil
+comment1.params=nombre edad peso propietario
+comment1.target=Reptil(java.lang.String, int, double, Propietario)
+comment2.target=void aplicarTratamiento()
+numComments=3
